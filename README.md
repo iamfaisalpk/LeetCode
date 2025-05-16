@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamfaisalpk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/iamfaisalpk/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Simulation
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/iamfaisalpk/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/iamfaisalpk/LeetCode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
