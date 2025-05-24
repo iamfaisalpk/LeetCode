@@ -33,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/iamfaisalpk/LeetCode/tree/master/0412-fizz-buzz) |
+| [2491-smallest-even-multiple](https://github.com/iamfaisalpk/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/iamfaisalpk/LeetCode/tree/master/2556-convert-the-temperature) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/iamfaisalpk/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
