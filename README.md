@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamfaisalpk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamfaisalpk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamfaisalpk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/iamfaisalpk/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/iamfaisalpk/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
