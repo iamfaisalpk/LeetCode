@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamfaisalpk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamfaisalpk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/iamfaisalpk/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamfaisalpk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2058-concatenation-of-array](https://github.com/iamfaisalpk/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/iamfaisalpk/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
