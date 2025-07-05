@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/iamfaisalpk/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamfaisalpk/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamfaisalpk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/iamfaisalpk/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/iamfaisalpk/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamfaisalpk/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
