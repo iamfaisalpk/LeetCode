@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamfaisalpk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/iamfaisalpk/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/iamfaisalpk/LeetCode/tree/master/0412-fizz-buzz) |
 | [2491-smallest-even-multiple](https://github.com/iamfaisalpk/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamfaisalpk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamfaisalpk/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/iamfaisalpk/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/iamfaisalpk/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
